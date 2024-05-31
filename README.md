@@ -1,7 +1,7 @@
 # Tableau Dashboards
 
 In this repository you will be able to find a variety of Tableau Dashboards hosted in Tableau Public.
-Please note most of this Dashboards are made in Spanish and some of the ideas behind them are from famous Tableau Public visualizations, however, they are made from scrath by me.
+Please note most of this Dashboards are made in Spanish and the inspiration behind some of them comes from famous Tableau Public visualizations, however, they are made from scrath by me.
 
 # Amazon Dashboard
 https://public.tableau.com/app/profile/ren.mondrag.n/viz/Amazon_Dashboard_17157240974310/Dashboard1
